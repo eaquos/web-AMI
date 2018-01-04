@@ -103,11 +103,10 @@ p {
     top: 0;
     bottom: 0;
     margin: auto;
+	z-index: 1001;
 
     -webkit-animation: pulsate 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
     animation: pulsate 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
-	/* TAMBAHAN */
-	z-index: 1001;
 }
 
 #loader:before {

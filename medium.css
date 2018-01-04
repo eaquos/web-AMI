@@ -17,7 +17,7 @@ html, body {
 }
 
 body {
-    background-image: URL("assets/images/background/web1-normal.jpg");
+    background-image: URL("assets/images/background/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
